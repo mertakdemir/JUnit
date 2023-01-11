@@ -1,0 +1,7 @@
+2023-01-07 18:25:38,028 INFO t.d.Day14_WebTables [main] Going to the home page
+2023-01-07 18:25:39,323 INFO t.d.Day14_WebTables [main] Printing the webtable information
+2023-01-07 18:25:39,396 INFO t.d.Day14_WebTables [main] Smith
+2023-01-07 18:25:39,415 INFO t.d.Day14_WebTables [main] John
+2023-01-07 18:25:39,433 INFO t.d.Day14_WebTables [main] jsmith@gmail.com
+2023-01-07 18:25:39,451 INFO t.d.Day14_WebTables [main] $50.00
+2023-01-07 18:25:39,469 INFO t.d.Day14_WebTables [main] http://www.jsmith.com
