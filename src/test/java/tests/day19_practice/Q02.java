@@ -54,7 +54,7 @@ public class Q02 extends TestBase {
         double toBuild = 0;
         for (int i = 0; i<height.size(); i++){
             if (height.get(i).getText().equals("509m")){
-                toBuild += Double.valueOf(height.get(i).getText().replaceAll("[^0-9]", ""));
+                toBuild += Double.valueOf(height.get(i).getText().replaceAll("[^0-9]", "")); //"//D" replace everything different from digits
                 toBuild = toBuild*5/100;
             }
         }
